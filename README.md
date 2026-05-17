@@ -1,184 +1,105 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Full-Stack+Developer+%7C+DevOps+Engineer;AI+%2F+ML+Builder;Digital+Growth+%26+Product+Strategist;Logic+first.+AI+accelerates+execution.)](https://github.com/insanityatpeak)
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=PRIYANSHU%20RAWAT&fontColor=FF3C3C&fontSize=52&fontAlignY=60&desc=insanityatpeak&descAlignY=85&descSize=14&descColor=888888" />
 </div>
 
----
+<br/>
 
-```js
-const developer = {
-  name: "Priyanshu Rawat",
-  alias: "insanityatpeak / Dragon Emperor",
-  role: "Full-Stack Developer  •  DevOps Engineer  •  AI Systems  •  Digital Strategist",
-  focus: ["TypeScript", "React", "Node.js", "Python", "LLMs", "CI/CD", "Digital Marketing"],
-  building: "end-to-end products — scalable backends, AI integrations, and growth systems",
-  currently: "building @Quecto",
-  philosophy: "Logic first. AI accelerates the execution.",
-};
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  > whoami                                                               │
+│                                                                         │
+│    Full-stack builder. DevOps tinkerer. AI systems guy.                │
+│    Currently: wiring up @Quecto — piece by piece.                      │
+│    Belief: logic is the skeleton. AI is the muscle.                    │
+│                                                                         │
+│  > cat philosophy.txt                                                   │
+│                                                                         │
+│    Ship something real. Optimize after. Document never.                │
+│    (just kidding — document always.)                                    │
+│                                                                         │
+│  > ls -la /skills                                                       │
+│    drwx  TypeScript   React   Node.js    Python                        │
+│    drwx  Docker       CI/CD   Linux      Nginx                         │
+│    drwx  LLMs         RAG     YOLOv5     scikit-learn                  │
+│    drwx  PostgreSQL   Redis   MongoDB    Firebase                      │
+│    drwx  SEO          Ads     Funnels    Analytics                     │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💫 About Me
+## What I'm actually building
 
-👋 **Hey, I'm Priyanshu Rawat** — a Full-Stack Developer & DevOps Engineer building scalable MVPs, AI-powered products, and modern web systems. I also help founders grow through strategic digital branding and product-focused marketing.
+> Not a list. A narrative.
 
-🚀 **Currently:** Building [@Quecto](https://github.com/insanityatpeak)
+I build end-to-end: the backend that doesn't fall over, the frontend that loads before you blink, the CI pipeline that ships while you sleep, and the AI layer that makes the product feel intelligent. I'm not a specialist — I'm the person who stitches everything together and makes it work under pressure.
 
-💼 **What I Do:** End-to-end product engineering, DevOps infrastructure, and strategic digital marketing — shipping scalable web systems, optimizing deployment pipelines, and helping brands grow with data-driven execution.
+Right now I'm building **Quecto** — still in the early, ugly phase where the architecture changes every week and that's fine.
 
-🧠 **What I'm Known For:** Shipping MVPs fast, AI integrations, algorithmic trading bots, competitive programming, and building growth systems that actually move metrics.
-
-🎯 **My Stack:**
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Framer Motion
-- **Backend:** Node.js, Express, Fastify, REST APIs, WebSockets
-- **DevOps:** Docker, GitHub Actions, CI/CD, Linux, Nginx, Vercel, Railway
-- **AI/ML:** Python, LLMs, RAG Pipelines, YOLOv5, scikit-learn
-- **Database:** PostgreSQL, MongoDB, Redis, Firebase
-- **Marketing:** SEO, Paid Ads, Funnel Strategy, Brand Building, Analytics
-
-🔥 **Featured Work:** [StreamTube](https://moviestudioyt.vercel.app/) · [Tulos E-Commerce](https://github.com/insanityatpeak/Tulos-E-commerce-App) · [Personal Portfolio](https://github.com/insanityatpeak/Personal-Portfolio)
-
-💬 **Ask Me About:** Full-stack systems, DevOps workflows, AI integrations, algorithmic trading, or digital growth strategy.
-
-📫 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyanshu-rawat-235518242/)
+Previously shipped:
+- **StreamTube** — video streaming platform ([live](https://moviestudioyt.vercel.app/))
+- **Tulos** — e-commerce system with full cart + checkout flow
+- Various trading bots that sometimes print money and sometimes don't
 
 ---
 
-## 🌐 Connect With Me
+## The stack, honestly assessed
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/priyanshu-rawat-235518242/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/insanityatpeak)
-
----
-
-## 💻 Tech Stack
-
-### ⚡ Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+| Layer | What I reach for | Why |
+|---|---|---|
+| Frontend | React + Next.js + TailwindCSS | Fast enough to ship, structured enough to scale |
+| Backend | Node.js (Fastify > Express for perf) | JavaScript everywhere = fewer context switches |
+| DevOps | Docker + GitHub Actions + Railway/Vercel | Reproducible builds, zero 3am SSH sessions |
+| AI/ML | Python — LLMs, RAG, YOLO, sklearn | Python owns this space, no contest |
+| DB | Postgres first, Redis for cache, Mongo if document fits | Pick the right tool, not the trendy one |
 
 ---
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+## How I think about systems
+
+```
+Problem → Sketch on paper → Dumbest version that works → Ship
+                                       ↓
+                          Profile → Find real bottleneck
+                                       ↓
+                          Fix the actual problem, not the guessed one
+```
+
+I've learned that 80% of performance issues are in the data layer, 90% of UX problems are in loading states, and 100% of DevOps pain is self-inflicted.
 
 ---
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+## Currently exploring
+
+- `Quecto` — building in public, slowly
+- Tighter RAG pipelines with less hallucination surface area
+- WebSocket architectures that don't fall apart under real load
+- Making algorithmic trading bots less wrong
 
 ---
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+## If you want to talk
+
+I'm most responsive on LinkedIn. Drop something specific — "I saw your StreamTube project, how did you handle X?" works better than "let's connect."
+
+[![LinkedIn](https://img.shields.io/badge/priyanshu--rawat-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rawat-235518242/)
+[![GitHub](https://img.shields.io/badge/insanityatpeak-181717?style=flat&logo=github&logoColor=white)](https://github.com/insanityatpeak)
+[![LeetCode](https://img.shields.io/badge/priyanshu__rawat__1729-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshu_rawat_1729/)
 
 ---
 
-### 🤖 AI / ML
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-111F68?style=for-the-badge&logoColor=white)
-
----
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 📣 Digital Marketing
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Funnel Strategy](https://img.shields.io/badge/Funnel_Strategy-FF4500?style=for-the-badge&logoColor=white)
-
----
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## GitHub at a glance
 
 <div align="center">
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanityatpeak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=insanityatpeak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars&show_icons=true&bg_color=0d0d0d&title_color=FF3C3C&icon_color=FF3C3C&text_color=cccccc)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=insanityatpeak&theme=highcontrast&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanityatpeak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 📈 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode](https://leetcard.jacoblin.cool/priyanshu_rawat_1729?ext=heatmap&theme=dark)](https://leetcode.com/u/priyanshu_rawat_1729/)
-
-</div>
-
-### 🏅 Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/priyanshu_rawat_1729/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=insanityatpeak&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/insanityatpeak)
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=insanityatpeak&theme=dark&hide_border=true&background=0d0d0d&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FF3C3C)
 
 </div>
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
+<sub>Readme written without a template. No PROFILE_VIEWS badge. No visitor counter.<br/>Just text about actual work — which is harder to write than you'd think.</sub>
 </div>
