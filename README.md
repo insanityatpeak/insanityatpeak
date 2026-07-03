@@ -160,9 +160,9 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=insanityatpeak&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/insanityatpeak)
-
+ 
 </div>
 
 ---
