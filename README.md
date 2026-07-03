@@ -9,12 +9,12 @@
 ```js
 const developer = {
   name: "Priyanshu Rawat",
-  alias: "insanityatpeak / Dragon Emperor",
+  alias: "insanityatpeak",
   role: "Full-Stack Developer  •  DevOps Engineer  •  AI Systems  •  Digital Strategist",
   focus: ["TypeScript", "React", "Node.js", "Python", "LLMs", "CI/CD", "Digital Marketing"],
   building: "end-to-end products — scalable backends, AI integrations, and growth systems",
   currently: "building @Quecto",
-  philosophy: "Logic first. AI accelerates the execution.",
+  philosophy: "Create systems that generate money passively.",
 };
 ```
 
@@ -22,7 +22,7 @@ const developer = {
 
 ## 💫 About Me
 
-👋 **Hey, I'm Priyanshu Rawat** — a Full-Stack Developer & DevOps Engineer building scalable MVPs, AI-powered products, and modern web systems. I also help founders grow through strategic digital branding and product-focused marketing.
+👋 **Hi, I'm Priyanshu Rawat** — a Full-Stack Developer & DevOps Engineer building scalable MVPs, AI-powered products, and modern web systems. I also help founders grow through strategic digital branding and product-focused marketing.
 
 🚀 **Currently:** Building [@Quecto](https://github.com/insanityatpeak)
 
@@ -38,7 +38,7 @@ const developer = {
 - **Database:** PostgreSQL, MongoDB, Redis, Firebase
 - **Marketing:** SEO, Paid Ads, Funnel Strategy, Brand Building, Analytics
 
-🔥 **Featured Work:** [StreamTube](https://moviestudioyt.vercel.app/) · [Tulos E-Commerce](https://github.com/insanityatpeak/Tulos-E-commerce-App) · [Personal Portfolio](https://github.com/insanityatpeak/Personal-Portfolio)
+🔥 **Featured Work:** [JURO](https://juro-eta.vercel.app/) . [MediTrack](https://medi-track-rose.vercel.app/) . [StreamTube](https://moviestudioyt.vercel.app/) · [Tulos E-Commerce](https://github.com/insanityatpeak/Tulos-E-commerce-App) · 
 
 💬 **Ask Me About:** Full-stack systems, DevOps workflows, AI integrations, algorithmic trading, or digital growth strategy.
 
