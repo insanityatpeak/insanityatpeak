@@ -49,11 +49,7 @@ const developer = {
 
 <div align="center">
 
-![Priyanshu's GitHub stats](https://nice-readme.vercel.app/stats?username=insanityatpeak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=insanityatpeak&theme=highcontrast&hide_border=false)
-
-![Top Langs](https://nice-readme.vercel.app/top-langs?username=insanityatpeak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
