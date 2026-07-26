@@ -39,9 +39,8 @@ const developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/priyanshu-rawat-235518242/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/insanityatpeak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)]([https://your-portfolio-url.com](https://my-portfolio-alpha-nine-82.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://my-portfolio-alpha-nine-82.vercel.app/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/DragonE17010245)
-
 ---
 
 ## 📈 LeetCode Stats
