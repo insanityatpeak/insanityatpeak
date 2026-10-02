@@ -1,19 +1,22 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=F70000&lines=Full-Stack+Developer+%7C+DevOps+Engineer;AI+%2F+ML+Builder;Logic+first.+AI+accelerates+execution.)](https://github.com/insanityatpeak)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=F70000&background=0D111700&center=true&vCenter=true&width=520&height=45&lines=%24+backend+--engineer;%24+distributed+--systems;%24+llm+--security)](https://github.com/insanityatpeak)
 
 </div>
 
 ### Priyanshu Rawat
 
-Full-stack engineer building AI-powered systems and multi-agent workflows.
+Backend, distributed systems, and LLM & security engineer building multi-agent AI systems.
 B.Tech CSE (IoT & InfoSec) @ Manipal University Jaipur.
 
 **Building**
-- [Kryptonite](https://github.com/insanityatpeak/kryptonite-ai): visual drag-and-drop multi-agent workflow builder
 - [JURO](https://github.com/insanityatpeak/juro): multi-agent insurance claims adjudication ([live](https://juro-eta.vercel.app/))
+- [chunkd](https://github.com/insanityatpeak/chunkd): fault-tolerant distributed file store in Go ([live](https://insanityatpeak.github.io/chunkd/))
+- [soyouwannabeacreator](https://github.com/insanityatpeak/Waitlist): pay-to-rank creator leaderboard ([live](https://www.soyouwannabeacreator.com))
+- [StreamTube](https://github.com/insanityatpeak/StreamTube-One-OTT-for-everyone): one OTT platform for everyone ([live](https://moviestudioyt.vercel.app/))
+- [Kryptonite](https://github.com/insanityatpeak/kryptonite-ai): visual drag-and-drop multi-agent workflow builder
 
-**Stack:** TypeScript · React · Node.js · Python · LangGraph
+**Stack:** Go · Python · TypeScript · FastAPI · PostgreSQL · Docker · LangGraph
 
 <div align="center">
 
